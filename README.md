@@ -4,8 +4,8 @@
 - A Trip Planner App Using Flutter
 - Exploring ML capabilities
 
-- 🌱 I’m currently learning ...
-C++ with Arduino
+🌱 I’m currently learning ...
+- C++ with Arduino
 
 💬 Ask me about ...
 - Anything! Work experience, salsa (dancing), firefighting, passion projects.
