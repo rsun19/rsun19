@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🧑‍🎓 I am...
+🧑‍🎓 I am ...
 - A third year student at the University of Virginia, majoring in Computer Science and minoring in Statistics
 - A current Software Engineering Intern at Red Hat
 
