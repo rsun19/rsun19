@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on ...
 - A Trip Planning App using Flutter
-- Exploring ML capabilities
+- Exploring ML capabilities using PyTorch
 
 🌱 I’m currently learning ...
 - C++ with Arduino
