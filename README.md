@@ -3,7 +3,7 @@
 🧑‍🎓 I am ...
 - A third year student at the University of Virginia, majoring in Computer Science and minoring in Statistics
 - A current Software Engineering Intern at Red Hat
-- Proficient in Python, Dart, Java, C, HTML/CSS, Flutter, Flask
+- Proficient in Python, Dart, Java, C, HTML/CSS, Flutter, Flask, SQL, JSON
 
 🔭 I’m currently working on ...
 - A Trip Planning App using Flutter
