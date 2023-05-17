@@ -10,6 +10,7 @@
 - Exploring ML capabilities using PyTorch
 
 🌱 I’m currently learning ...
+- React
 - C++ with Arduino
 
 💬 Ask me about ...
