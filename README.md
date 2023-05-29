@@ -18,11 +18,12 @@
 
 📫 How to reach me: ...
 - Message me on LinkedIn: https://www.linkedin.com/in/rob-sun/
+- Take a look at my portfolio website: https://rsun19.github.io/portfoliodev/
 
 😄 Pronouns: ...
 - he/him
 
 📈 Github Stats: ...
-<br>
-<br>
+<br />
+<br />
 ![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsun19&show_icons=true&count_private=true&hide=stars,issues&include_all_commits=true&theme=dark&line_height=30)
