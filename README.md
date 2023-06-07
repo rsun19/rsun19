@@ -18,7 +18,7 @@
 
 📫 How to reach me: ...
 - Message me on LinkedIn: https://www.linkedin.com/in/rob-sun/
-- Take a look at my portfolio website: https://rsun19.github.io/portfoliodev/
+- Take a look at my portfolio website: https://robertssun.me
 
 😄 Pronouns: ...
 - he/him
