@@ -1,17 +1,17 @@
 ### Hi there 👋
 
 🧑‍🎓 I am ...
-- A third year student at the University of Virginia, majoring in Computer Science and minoring in Statistics
-- A current Software Engineering Intern at Red Hat
-- Proficient in Python, Dart, Java, C, HTML/CSS, React, Tailwind CSS, Patternfly, Flutter, Flask, SQL, JSON, JavaFX
+- A third-year student at the University of Virginia, majoring in Computer Science and minoring in Statistics
+- Former Software Engineering Intern at Red Hat
+- Proficient in Python, Dart, Java, HTML/CSS, React, JavaScript, TypeScript, Swift, C, Tailwind CSS, Patternfly, Flutter, Flask, SQL, JSON, JavaFX
 
 🔭 I’m currently working on ...
-- A Trip Planning App using Flutter
+- Figuring out a startup idea
 - Exploring ML capabilities using PyTorch
 
 🌱 I’m currently learning ...
-- Go, Swift
-- C++ with Arduino
+- More algorithms and such
+- Mathematical Statistics
 
 💬 Ask me about ...
 - Anything! Work experience, salsa (dancing), firefighting, passion projects
